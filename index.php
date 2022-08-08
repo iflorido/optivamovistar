@@ -110,7 +110,7 @@ if (isset($_POST['ingreso'])) {
               </div>
               <!-- /.card-header -->
               <!-- form start -->
-              <form action="optiva.php" method="post" enctype="multipart/form-data">   
+              <form action="index.php" method="post" enctype="multipart/form-data">   
                 <div class="card-body">
                   <div class="form-group">
                     <label for="cantidad">Cantidad</label>
@@ -146,7 +146,7 @@ if (isset($_POST['ingreso'])) {
               <div class="card-header">
                 Retirar
               </div>
-              <form action="optiva.php" method="post" enctype="multipart/form-data">   
+              <form action="index.php" method="post" enctype="multipart/form-data">   
                 <div class="card-body">
                   <div class="form-group">
                     <label for="cantidad">Cantidad</label>
