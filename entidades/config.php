@@ -3,12 +3,12 @@
 // Datos para hosting de prueba.
 // 
 // Database Hostname
-$host = 'localhost';
+$host = '$host';
 // Database use name
-$usuario = 'optima';
+$usuario = '$usuario';
 //database user password
-$password = 'Optima_123456';
+$password = '$password';
 //Database name
-$database = 'optima';
+$database = '$database';
 ?>
 
