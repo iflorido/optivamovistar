@@ -34,5 +34,6 @@ foreach ($users as $user) {
     echo $user->tipo . " " . $user->cantidad;
     echo "<br>";
 }
+//test
 ?>
 
